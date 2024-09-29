@@ -1,4 +1,4 @@
-#include "hello-static-lib.h"
+#include "hello_static_lib.h"
 
 void hello_static_lib::say_hi()
 {

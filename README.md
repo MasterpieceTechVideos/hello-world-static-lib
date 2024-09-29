@@ -3,8 +3,8 @@ A simple static library with one important function ... ```say_hi()```
 
 # building library
 ```sh
-git clone https://github.com/MasterpieceTechVideos/hello-static-lib.git
-cd hello-static-lib
+git clone https://github.com/MasterpieceTechVideos/hello_static_lib.git
+cd hello_static_lib
 cmake -S . -B build
 cmake --build build
 ```
